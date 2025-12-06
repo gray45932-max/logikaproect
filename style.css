@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Science+Gothic:wght@100..900&display=swap');
+
+body{
+   font-family: sans-serif;
+   background-color: rgb(3, 0, 33);
+     font-family: "Science Gothic", sans-serif;
+}
+
+
+h1{
+    background-color: cyan;
+    color: rgb(151, 59, 255);
+    width: 897px;
+    height: 45px;
+    text-align: center;
+    size: 1000px;
+}
+
+p{
+    background-color: red;
+    color: rgb(255, 0, 140);
+    border: dotted 10px rgb(3, 3, 196);
+    font-size: 25px;
+}
+
+
+h2{
+    color: rgb(121, 243, 21);
+    background-color: golden;
+}
+
+ main{
+   background-color: gold; 
+}
+.main_among img{
+    width: 100px;
+}
+
+p{
+    background-color: gold;
+}
+
+.images {
+    background-color: navy;
+    border: dotted 12px rgb(217, 255, 0);
+    
+}
+
+
+
+
+
+
+
+
